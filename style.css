@@ -1,0 +1,19 @@
+
+.div1 {
+    box-shadow: 15px 15px 20px 0;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+b {
+    color: purple;
+}
+
+#divInADiv1 {
+    background-color:chocolate;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
